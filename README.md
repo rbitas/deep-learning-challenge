@@ -1,5 +1,6 @@
 # deep-learning-challenge
 Dataviz bootcamp
+*Note: the TA helped with code on how to export to HDF5 file and where to find the file after saving it. The code she provided was nn_model.save(AlphabetSoupCharity.h5), which I adpoted it into my code*
 
 ## Step 1: Preprocess the Data
 
