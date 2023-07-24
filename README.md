@@ -1,7 +1,7 @@
 # deep-learning-challenge
 Dataviz bootcamp
 
-*Note: the TA helped with code on how to export to HDF5 file and where to find the file after saving it. The code she provided was nn_model.save(AlphabetSoupCharity.h5), which I adpoted it into my code*
+*Note: the TA helped with code on how to export to HDF5 file and where to find the file after saving it. The code she provided was nn_model.save(AlphabetSoupCharity.h5), which I adpoted it into my code. https://stackoverflow.com/questions/47418299/python-combining-low-frequency-factors-category-counts was also used to help with binning*
 
 ## Step 1: Preprocess the Data
 
